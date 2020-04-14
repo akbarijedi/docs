@@ -9,7 +9,7 @@ Available languages:
  * [🇺🇦](ukr/README.md) 
  * [🇪🇸](es/README.md) 
  * [🇰🇷](kr/README.md) 
- * ![farsi language](../img/fa.jpg) [FA](fa/README.md)
+ * ![farsi language](img/fa.jpg) [FA](fa/README.md)
 
 
 
