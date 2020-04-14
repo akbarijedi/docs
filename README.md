@@ -2,7 +2,14 @@
 
 Welcome to [Instabot](https://github.com/instagrambot/) Documentation! 
 
-Available languages: [🇬🇧](en/README.md) [🇷🇺](ru/README.md) [🇮🇹](it/README.md) [🇺🇦](ukr/README.md) [🇪🇸](es/README.md) [🇰🇷](kr/README.md)
+Available languages:
+ * [🇬🇧](en/README.md) 
+ * [🇷🇺](ru/README.md) 
+ * [🇮🇹](it/README.md) 
+ * [🇺🇦](ukr/README.md) 
+ * [🇪🇸](es/README.md) 
+ * [🇰🇷](kr/README.md) 
+ * ![farsi language](../img/fa.jpg) [FA](fa/README.md)
 
 
 
