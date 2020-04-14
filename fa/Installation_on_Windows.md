@@ -1,43 +1,56 @@
-# Installation instructions on Windows
+<div dir="rtl" style="direction:rtl;text-align:right">
 
-**Important! Read the instructions from start to finish, and then act! Good luck!**
+# دستورالعمل نصب در محیط ویندوز
 
-## Installing Python 3
+**توجه خیلی مهم! راهنما رو از اول تا آخر مطالعه کنین بعد شروع به کار کنین. موفق باشید**
 
-1. Go to the Python [website](https://www.python.org/downloads/).
-2. Choose the version that suits you (depends on the operating system).
-3. Download.
-4. Run the installer.
-5. Follow the instructions that the installer offers you. Check "Add Python 3.x to Path" and click on Install Now (see the figure below). If you are an experienced user, select Customize installation.
+## نصب پایتون ورژن 3
+
+1.به این  [سایت](https://www.python.org/downloads/) برین .
+2. به حسب نوع سیستم عامل نسخه خودتون رو دانلود کنین.
+3. دکمه دانلود رو کلیک کنید!
+4. برنامه رو نصب کنبن.
+5. مراحل رو طبق نصب کننده پیشبرین تیک پایین که افزودن پایتون به آدرس های سیستم هست رو حتما بزنین و دکمه نصب رو کلیک کنین.
 
 ![Install Python 3 and add to PATH](../img/install_python_on_Windows.PNG "Install Python 3 and add to PATH").
 
-## Downloading a project from GitHub
+## دریافت پروژه از سایت گیت هاب
 
-There are two options for downloading the project:
+دو راه برای دریافت نرم افزار هست:
 
-a) Click the link https://github.com/instagrambot/instabot. Click on "Clone or download", and then on "Download ZIP". Unpack it.
-b) Installing the Git Client:
-1. Go to the Git [site](https://git-scm.com/downloads).
-2. Choose the version that suits you (depends on the operating system).
-3. Download.
-4. Run the installer.
-5. Follow the instructions that the installer suggests (click on Next). You can configure the client yourself if you are an experienced user.
-6. After installation, run the command line.
-7. At the command prompt, type.
+a) بر روی لینک https://github.com/instagrambot/instabot کلیک کنین. بر روی گزینه "Clone or download", و سپس  "Download ZIP".  و سپس از حالت فشرده خارجش کنین و تمام .
+b) Git کلاینت رو نصب کنین:
+1. برین به این  [سایت](https://git-scm.com/downloads).
+2. ورژنی که با نوع سیستم عامل شما سازگار هست رو انتخاب کنین.
+3. دانلودش کنین.
+4. برنامه نصب رو اجرا کنین.
+5. همش نکس نکس بزنین تا انتهای نصب)(اگر کاربر حرفه ای هستید میتونید سفارشی کنین مقادیر رو هنگام نصب)
+6. بعد از اینکه نصب تمام شد پنجره CMD یا همون کامند پرامپت رو باز کنین.
+7. تایپ کنین:
+
+<div dir="ltr" style="direction:ltr;text-align:left">
 
 ``` bash
 git clone https://github.com/instagrambot/instabot --recursive
 ```
-And press Enter.
+</div>
 
-***Congratulations! You downloaded the project!***
+و اینتر بزنین.
 
-## Installing instabot in a virtual Python environment
+***آفرین تبریک میگم شما پروژه رو دریافت کردید!***
 
-At the command prompt, type.
+## نصب ایستابات در محیط مجاز پایتون
+
+در پنجره دامندپرامپت تایپ کنین :
+
+<div dir="ltr" style="direction:ltr;text-align:left">
 
 ``` python
 pip install -U instabot
 ```
-And press Enter.
+
+</div>
+
+اینتر بزنین!.
+
+</div>
