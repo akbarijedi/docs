@@ -14,30 +14,30 @@ ___
 
 Instabot is a module for the Python language, which not only implements the wrapper over the Instagram API, but also various useful functions, such as "subscribe to the list of people", "like photos by hashtags", "unsubscribe from non-followers" and so on. Instabot is smart enough: [read](Filtration.md), for example, how it filters people on which it is going to subscribe.
 
-## Ask a Question
+## سوال بپرس
 
 * For error messages, use this [page](https://github.com/instagrambot/instabot/issues).
 * If you have questions or would like to share your experience using Instabot, please write to our [Telegram](https://t.me/instabotproject).
 * You can find answers to the most popular questions [here](FAQ.md).
 
-## Installation
-
+## نصب
+شما می تونید راهنما رو در لینک های زیر مطالعه کنید
 You can read the instructions for installing Instabot, following the link below.
-* Installing on [Windows](Installation_on_Windows.md),
-* Installing on [Unix](Installation_on_Unix.md).
+* نصب در [ویندوز](Installation_on_Windows.md),
+* نصب در [یونیکس](Installation_on_Unix.md).
 
-## How to use
+## چطور استفاده کنم
 
-Read the instructions for use [here](How_to_use.md).
+می تونید راهنما رو  [اینجا](How_to_use.md) مطالعه کنید.
 
-## Update
+## بروزرسانی
 
-Since the Instabot project is young and actively developing, updates will come out quite often. So if you stumble upon an error, do not rush to bang: try to update Instabot - maybe this error has already been corrected.
+از اونجایی که این ماژول اینستابات همنوز اول راهه، بروز رسانی هاش خیلی سریعه اگه جایی گیر کردی مانیتور رو نشکن! برنامه رو بروز کن شاید مشکل برطرف شده باشه! :)
 
 ``` python
 pip install -U instabot
 ```
 
-## Developers
+## توسعه دهنده های عزیز
 
-Developers better read the [documentation](For_developers.md).
+برنامه نویسای گرامی می تونن برای راهنمایی بیشتر  [دفترچه راهنما](For_developers.md)رو مطالعه کنن
