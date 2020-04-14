@@ -3,13 +3,13 @@
 Welcome to [Instabot](https://github.com/instagrambot/) Documentation! 
 
 Available languages:
- * ![English language](img/gb.png)  [🇬🇧](en/README.md) 
- * ![russia language](img/ru.png)  [🇷🇺](ru/README.md) 
- * ![italy language](img/it.png)  [🇮🇹](it/README.md) 
- * ![ukraine language](img/uk.jpg)  [🇺🇦](ukr/README.md) 
- * ![es language](img/es.png)  [🇪🇸](es/README.md) 
- * ![kurd language](img/kr.jpg)  [🇰🇷](kr/README.md) 
- * ![farsi language](img/fa.jpg) [FA](fa/README.md)
+  
+  * *[![English language](img/gb.png)](#)  [GB](en/README.md)*
+  * *[![russia language](img/ru.png)](#)  [RU](ru/README.md)*
+  * *![italy language](img/it.png)  [IT](it/README.md)*
+  * *![ukraine language](img/uk.jpg)  [UA](ukr/README.md)*
+  * *![es language](img/es.png)  [ES](kr/README.md)*
+  * *![farsi language](img/fa.jpg) [FA](fa/README.md)*
 
 
 
