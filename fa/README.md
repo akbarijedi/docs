@@ -1,4 +1,5 @@
 <div dir="rtl" style="direction:rtl;text-align:right">
+
 # اینستا بات
 
 نرم افزار عالی برای ارتقاء حساب اینستاگرام .کد نویسی شده در پایتون.
@@ -13,17 +14,16 @@ ___
 
 ## حالا این چیه؟
 
-Instabot is a module for the Python language, which not only implements the wrapper over the Instagram API, but also various useful functions, such as "subscribe to the list of people", "like photos by hashtags", "unsubscribe from non-followers" and so on. Instabot is smart enough: [read](Filtration.md), for example, how it filters people on which it is going to subscribe.
+اینستابات یک برنامه برای پایتون هست، نه تنها مثل API های اینستاگرام کار میکنه و یاعث پیشرفت حساب کاربری شما میشه بلکه توابعی مانند لایک کردن، افزودن لیست افراد، آنفالو کردن کسایی که شما رو فالو نکردن و کلی چیزای دیگه رو داره. اینستابات هوشمند هم هست میتونید [این صفحه](Filtration.md) رو مطالعه کنین تا ببینید برای فیلترکردن کسانی که می خواد اشتراک گزاری کنه چیکار میکنه.
 
 ## سوال بپرس
 
-* For error messages, use this [page](https://github.com/instagrambot/instabot/issues).
-* If you have questions or would like to share your experience using Instabot, please write to our [Telegram](https://t.me/instabotproject).
-* You can find answers to the most popular questions [here](FAQ.md).
+* برای خطا ها از  [این صفحه](https://github.com/instagrambot/instabot/issues) استفاده کنین.
+* اگر سوالی دارید یا تجربه خودتون رو می خواهین به اشتراک بزارین [Telegram](https://t.me/instabotproject).
+* یافتن سوال هایی که عمومی هستن می تونین از [اینجا](FAQ.md) مطالعه کرد.
 
 ## نصب
 شما می تونید راهنما رو در لینک های زیر مطالعه کنید
-You can read the instructions for installing Instabot, following the link below.
 * نصب در [ویندوز](Installation_on_Windows.md),
 * نصب در [یونیکس](Installation_on_Unix.md).
 
@@ -35,9 +35,12 @@ You can read the instructions for installing Instabot, following the link below.
 
 از اونجایی که این ماژول اینستابات همنوز اول راهه، بروز رسانی هاش خیلی سریعه اگه جایی گیر کردی مانیتور رو نشکن! برنامه رو بروز کن شاید مشکل برطرف شده باشه! :)
 
+<div dir="ltr" style="direction:ltr;text-align:left">
+
 ``` python
 pip install -U instabot
 ```
+</div>
 
 ## توسعه دهنده های عزیز
 
