@@ -42,7 +42,7 @@ git clone https://github.com/instagrambot/instabot --recursive
 
 ## نصب ایستابات در محیط مجازی پایتون
 
-در پنجره دامندپرامپت تایپ کنین :
+در پنجره کامندپرامپت CMD تایپ کنین :
 
 <div dir="ltr" style="direction:ltr;text-align:left">
 
